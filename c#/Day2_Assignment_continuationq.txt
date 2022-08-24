@@ -1,0 +1,4 @@
+12. Write C# function to find position of the first prime number in a given array. Use the above function to decide a number is prime or not.
+
+13. Write C# function to find biggest prime number in a given array
+14. Modify Q2 to so that it returns both the position and also the number
